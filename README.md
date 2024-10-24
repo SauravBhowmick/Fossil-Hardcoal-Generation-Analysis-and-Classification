@@ -2,7 +2,7 @@
 Machine learning - Supervised Learning
 
 ## Fossil Hardcoal Generation Analysis and Classification
-This repository contains scripts and models for analyzing actual generation data for fossil hardcoal technology. The project involves exploratory data analysis, binary classification, and evaluation of multiple machine learning models to predict energy generation patterns.
+Problem Satement: The generation of Fossil hard coal is necessary for future predictions. Predicting the generation whether it is low or high is important for other energy sources in the enrgy market. The relationship has to be analysed between different energy sources.
 
 ### Features:
 #### Exploratory Data Analysis:
