@@ -1,4 +1,4 @@
-# EDE2_Project2
+# Energy Data Engineering-2-Project2
 Machine learning - Supervised Learning
 
 ## Fossil Hardcoal Generation Analysis and Classification
