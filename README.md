@@ -37,6 +37,6 @@ This repository contains scripts and models for analyzing actual generation data
 - Select the best performing model based on ROC_AUC score and explain the choice.
 
 #### Deployment of Best Performing Model:
-- Train and fit the best performing model, named "best_model".
+- Train and fit the best performing model, named "best_model". (Random Forests)
 - Deploy the best model on 2024 data (not used for training).
 - Evaluate and visualize predictions on the test dataset.
